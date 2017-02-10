@@ -1,6 +1,6 @@
 {
-  "name": "passport-oauth1",
-  "version": "1.1.0",
+  "name": "@joewitt99/passport-dynamicoauth1",
+  "version": "1.1.1",
   "description": "OAuth 1.0 authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth1.git"
+    "url": "git://github.com/joewitt99/passport-dynamicoauth1.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth1/issues"
+    "url": "http://github.com/joewitt99/passport-dynamicoauth1/issues"
   },
   "license": "MIT",
   "licenses": [
